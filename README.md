@@ -7,7 +7,7 @@
 日付で管理できるto do listです。
 
 ## 🖼️ スクリーンショット
-![screenshot](./images/todo.png)
+![screenshot](./image/todo.png)
 
 ## 💬 操作方法
 上のボックスでタスクを追加できます
