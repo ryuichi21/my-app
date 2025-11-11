@@ -1,1 +1,14 @@
-# my-app
+# 題名：My App
+
+## 👤 氏名
+大泉隆一
+
+## 📱 概要
+日付で管理できるto do listです。
+
+## 🖼️ スクリーンショット
+![screenshot](./images/screenshot.png)
+
+## 💬 操作方法
+上のボックスでタスクを追加できます
+
